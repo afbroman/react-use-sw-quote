@@ -1,0 +1,8 @@
+{
+  "short_name": "@afbroman/react-use-sw-quote",
+  "name": "@afbroman/react-use-sw-quote",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
